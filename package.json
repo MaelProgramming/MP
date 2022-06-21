@@ -1,0 +1,14 @@
+{
+  "name": "program-form",
+  "version": "1.0.0",
+  "main": "serveur.js",
+  "scripts":{
+      "start": "nodemon serveur.js"
+},
+  "author": "Mael GRUAND",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
